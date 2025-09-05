@@ -19,9 +19,10 @@ This is a basic front-end clone of the Amazon homepage, created using HTML and C
 - Improve responsiveness for smaller devices.
 
 📸 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot1.png)
+![App Screenshot](./screenshot2.png)
 
-📁 How to Use
+📁 How to Use~
 Just open the index.html file in your browser to view the site.
 
 # This project is for educational purposes only and is not affiliated with Amazon in any way.
